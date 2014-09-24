@@ -1,7 +1,8 @@
-## JavaScript
+# Javascript
 -main TestMain
 -lib munit
 -lib hamcrest
+-lib mockatoo
 -cp src
 
 -cp test
@@ -12,6 +13,7 @@
 ## Neko
 -main TestMain
 -lib munit
+-lib mockatoo
 -lib hamcrest
 -cp src
 
@@ -23,6 +25,7 @@
 ## CPP
 -main TestMain
 -lib munit
+-lib mockatoo
 -lib hamcrest
 -cp src
 
