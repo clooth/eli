@@ -1,0 +1,7 @@
+-main eli.Main
+-lib flambe
+-lib munit
+-lib hamcrest
+-lib mockatoo
+-cp src
+-js build/main.js

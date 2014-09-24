@@ -1,4 +1,4 @@
-package urgame;
+package eli;
 
 import flambe.Entity;
 import flambe.System;

@@ -17,7 +17,7 @@ version: 0.0.1
 main: eli.Main
 
 # The platform to use when invoking `run` or `build` with no arguments.
-default_platform: web
+default_platform: html
 
 # The initial orientation and fullscreen state on mobile devices.
 orientation: portrait
